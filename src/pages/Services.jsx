@@ -114,7 +114,7 @@ function Services() {
 
                 {/* Process Section */}
           <div className="process-section">
-            <h2 className="section-title">Our Proven Process</h2>
+            <h2 className="section-title">Our Proven Success</h2>
             <p className="subtitle"><center>Please click on the numbers below to expand images.</center></p>
             <div className="process-steps">
               <div className="process-step">
